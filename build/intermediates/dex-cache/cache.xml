@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\fmorin\AndroidStudioProjects\Mercury_TicTacToe\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\fmorin\AndroidStudioProjects\Mercury_TicTacToe\app\build\intermediates\pre-dexed\debug\classes-fe077975dd8ea9ab38935e8b283ea3873a7c5c0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\fmorin\AndroidStudioProjects\Mercury_TicTacToe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\fmorin\AndroidStudioProjects\Mercury_TicTacToe\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-12fbc7c57d3bffca052e8bfb1777c4e9b7502615.jar" />
+    </item>
+    <item
+        jar="C:\Users\fmorin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\fmorin\AndroidStudioProjects\Mercury_TicTacToe\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-abef88362194f193bf24e0b2425786e4a99195cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\fmorin\AndroidStudioProjects\Mercury_TicTacToe\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\fmorin\AndroidStudioProjects\Mercury_TicTacToe\app\build\intermediates\pre-dexed\debug\classes-1a82ae1dd41bc88c52bcfe248311026ac2ea5e0e.jar" />
+    </item>
+
+</items>
